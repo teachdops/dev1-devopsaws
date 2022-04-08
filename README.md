@@ -4,6 +4,11 @@ Course Content:
 
 Day1: 
    1. lets learn what is devops
+            1. SDLC (Requirement Gathering, Planning, Designing, Development, Testing, Deploy&Maintain)
+            2. Models in SDLC (waterfall and Agile) - Agile SDLC (development)
+            3. DOLC (code, code build, code test, code analysis, delivery, sofware testing, deploy)
+            4. CI (code, fetch, build, test, notify, feedback) (GIT, maven, nexus, jenkins)
+            5. CD (deploy, software test)
    2. Tool/utility/lab setup
    3. Linux basics
 
@@ -38,7 +43,7 @@ Day5:
        Then implement...lets see how it goes
 
 Day6:
-   1. Git
+   1. Git & GitHub
 
 Day7:
    1. Jenkins in General
