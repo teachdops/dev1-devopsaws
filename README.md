@@ -10,24 +10,25 @@ Day1:
 Day2:
    1. Lets understand the webapplication
    2. setup web application - Manually
-   3. set web application - automation
+   3. setup web application - automation
 
 Day3:
    1. Lets learn Bash scripting basics
    2. Lets refresh Networking Basics
    3. AWS
-         a. Cloud/AWS introduction
-         b. EC2
-         c. EBS
+         1. Cloud/AWS introduction
+         2. EC2
+         3. EBS
+
 
 Day4:
    4. AWS
-         d. ELB
-         e. Cloudwatch
-         f. EFS
-         g. Autoscaling Group
-         h. S3
-         i. RDS
+        4. ELB
+        5. Cloudwatch
+        6. EFS
+        7. Autoscaling Group
+        8. S3
+        9. RDS
    
 Day5:
    1. Let migrate/deploy our webApplication in AWS
