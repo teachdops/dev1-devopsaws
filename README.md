@@ -22,7 +22,7 @@ Day3:
 
 
 Day4:
-   4. AWS
+   1. AWS Countinuous
         4. ELB
         5. Cloudwatch
         6. EFS
