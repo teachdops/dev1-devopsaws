@@ -4,6 +4,7 @@ Course Content:
 
 Day1: 
    1. lets learn what is devops
+
                1. SDLC (Requirement Gathering, Planning, Designing, Development, Testing, Deploy&Maintain)
                2. Models in SDLC (waterfall and Agile) - Agile SDLC (development)
                3. DOLC (code, code build, code test, code analysis, delivery, sofware testing, deploy)
