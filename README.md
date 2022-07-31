@@ -48,6 +48,7 @@ Day6:
 
 Day7:
    1. Jenkins in General
+           
            Continuous Integration
            installation
            Freestyle and pipeline as coode
