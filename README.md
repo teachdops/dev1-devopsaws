@@ -48,7 +48,12 @@ Day6:
 
 Day7:
    1. Jenkins in General
-   2. Continuous Integration
+           Continuous Integration
+           installation
+           Freestyle and pipeline as coode
+           lets create first job
+           lets get to know about tools in jenkins
+         
 
 Day8:
    1. Ansible
