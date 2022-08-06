@@ -54,6 +54,12 @@ Day7:
            Freestyle and pipeline as coode
            lets create first job
            lets get to know about tools in jenkins
+           Plugins
+           Pipeline
+            Fetch code -> Build -> Unit Test -> upload Artifact
+           Nexus Artifactory
+           Notification
+           
          
 
 Day8:
