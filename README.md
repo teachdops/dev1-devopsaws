@@ -59,7 +59,10 @@ Day7:
             Fetch code -> Build -> Unit Test -> upload Artifact
            Nexus Artifactory
            Notification
-           
+           CD - delivery
+               Manual approach of deployment
+           Build triggers
+           Master-Slave node architecture           
          
 
 Day8:
