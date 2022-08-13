@@ -68,24 +68,24 @@ Day7:
 Day8:
    1. Ansible
 
-      Introduction
-      Setup LAB
-      validate lab setup by using inventory and ping module
-      lets understand how YAML looks
-      Ad-Hoc Commands to be practised
-      Playbook
-      Modules
+               Introduction
+               Setup LAB
+               validate lab setup by using inventory and ping module
+               lets understand how YAML looks
+               Ad-Hoc Commands to be practised
+               Playbook
+               Modules
       
  Day9:
    1. Ansible Continuous
 
-      Understand Ansible Config and More inventories
-      Variables
-      Group and Host Variables
-      Fact Variable
-      Decision Making and Loops
-      Template, File & Copy Module
-      Handlers
+               Understand Ansible Config and More inventories
+               Variables
+               Group and Host Variables
+               Fact Variable
+               Decision Making and Loops
+               Template, File & Copy Module
+               Handlers
 
 Day10:
    1. AWS Networking
