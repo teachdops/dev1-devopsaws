@@ -79,10 +79,7 @@ Day8:
  Day9:
    1. Ansible Continuous
 
-               Understand Ansible Config and More inventories
                Variables
-               Group and Host Variables
-               Fact Variable
                Decision Making and Loops
                Template, File & Copy Module
                Handlers
